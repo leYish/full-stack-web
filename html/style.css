@@ -1,0 +1,35 @@
+body{
+    background-image: url(background.jpg);  
+    background-size: cover;
+}
+h2{
+    color: #B04138;
+    text-align: center;
+    border: 5px solid rgba(255, 176, 170, 0.5);
+    cursor:pointer ;
+
+}
+p{
+    color: green;
+}
+li{
+    list-style:none;
+    display: inline-block;
+}
+
+
+.webtext{
+    border: 5px dashed green;
+}
+
+.active{
+    color: red;
+}
+
+#div1{
+    background-color: rgba(0, 0, 255, 0.2);
+
+
+}#div2{
+    background-color: rgba(255, 0, 0, 0.2);
+}
