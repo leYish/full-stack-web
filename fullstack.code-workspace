@@ -4,5 +4,8 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"code-runner.defaultLanguage": "js"
+	},
+	"code-runner.executorMap": {},
 }
